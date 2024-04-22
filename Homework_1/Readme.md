@@ -9,3 +9,4 @@
 4. Через reg.ru/nettools/dig убедиться, что все созданные записи для студента добавлены на DNS сервер.
 
 5. Предоставить отчет о проделанной работе.
+https://github.com/Andymarch83/Distributed-systems-and-networks/blob/main/Homework_1/report.md
