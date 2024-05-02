@@ -1,0 +1,8 @@
+![Debian](https://github.com/Andymarch83/Distributed-systems-and-networks/assets/122732408/4cbd5ff4-51fc-47d2-9d0b-6cdf4f715911)
+![Termius](https://github.com/Andymarch83/Distributed-systems-and-networks/assets/122732408/787e75e7-26c6-49e0-afe4-b5c021444fae)
+![Influxdb](https://github.com/Andymarch83/Distributed-systems-and-networks/assets/122732408/973b3c2b-0a33-427d-af71-97f1ba02c1b0)
+![grafana](https://github.com/Andymarch83/Distributed-systems-and-networks/assets/122732408/757814be-51a4-4765-9f37-c7189cadff42)
+![node-red_global](https://github.com/Andymarch83/Distributed-systems-and-networks/assets/122732408/395033ef-bfc4-466d-b232-cd9a0f8a3d03)
+![node-red_local](https://github.com/Andymarch83/Distributed-systems-and-networks/assets/122732408/cc72c4c3-ccfe-4dd9-8ea9-8c9d92505a44)
+![WireGuard](https://github.com/Andymarch83/Distributed-systems-and-networks/assets/122732408/bb8a60d1-f823-4bd4-8548-6e269b2a4c61)
+![PORT FORWARDS](https://github.com/Andymarch83/Distributed-systems-and-networks/assets/122732408/f1c1399a-eeac-4177-b731-7dde19124098)
