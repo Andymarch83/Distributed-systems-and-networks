@@ -1,4 +1,4 @@
-https://colab.research.google.com/drive/1NWQH3Rx0hUAcVlPanCmys_OHZvJWt-oj?authuser=0
+(https://colab.research.google.com/drive/1NWQH3Rx0hUAcVlPanCmys_OHZvJWt-oj?usp=sharing)
 
 
 
